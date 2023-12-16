@@ -6,8 +6,8 @@
 *.ipr
 *.ipr
 *.iws
-*.idea/
-*.idea/.name
+*/.idea
+*/.idea/.name
 
 # gradle build stuff 
 *.gradle
